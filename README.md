@@ -15,8 +15,8 @@ Estou em busca da **minha primeira oportunidade profissional**, onde eu possa ap
 
 <div>
   <a href="https://github.com/Luanpierote">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luanpierote&show_icons=true&theme=gotham&include_all_commits=true&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanpierote&layout=compact&langs_count=16&theme=gotham"/>
+    <img height="180" src="https://github-readme-stats-hazel-six-31.vercel.app/api?username=Luanpierote&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats-hazel-six-31.vercel.app/api/top-langs/?username=Luanpierote&layout=compact&langs_count=16&theme=gotham"/>
   </a>
 </div>
 
